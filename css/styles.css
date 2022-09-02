@@ -1,0 +1,30 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(254, 255, 165) 0%,
+    rgb(255, 232, 182) 90%
+  );
+}
+
+h1,
+h3 {
+  text-align: center;
+}
+h3 {
+  margin: 20px 120px;
+  font-weight: lighter;
+}
+footer {
+  display: block;
+  text-align: center;
+}
+a {
+  padding: 20px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+p {
+    text-align: center;
+}
